@@ -1,3 +1,10 @@
+// HackerRank > Algorithms > Diagonal Difference
+// Source: https://www.hackerrank.com/challenges/diagonal-difference
+
+// Summary of Problem:
+// Print the absolute difference between the two sums 
+// of the matrix's diagonals as a single integer.
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
