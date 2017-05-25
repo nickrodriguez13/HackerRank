@@ -1,3 +1,12 @@
+// HackerRank > Algorithms > Mini-Max Sum
+// Source: https://www.hackerrank.com/challenges/mini-max-sum
+
+// Summary: 
+// Print two space-separated long integers denoting the respective
+// minimum and maximum values that can be calculated by 
+// summing exactly four of the five integers. (The output 
+// can be greater than 32 bit integer.)
+
 #include <map>
 #include <set>
 #include <list>
