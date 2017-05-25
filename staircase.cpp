@@ -1,3 +1,9 @@
+// HackeRank > Algorithms > Staircase
+// Source: https://www.hackerrank.com/challenges/staircase
+
+// Summary: 
+// Print a staircase of size  using # symbols and spaces.
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
