@@ -1,3 +1,10 @@
+// HackerRank > Algorithms > Intro to Sorting
+// Source: https://www.hackerrank.com/challenges/tutorial-intro
+
+// Summary: 
+// Given a sorted array () and a number (), 
+// can you print the index location of  in the array?
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
