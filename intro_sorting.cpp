@@ -2,7 +2,7 @@
 // Source: https://www.hackerrank.com/challenges/tutorial-intro
 
 // Summary: 
-// Given a sorted array () and a number (), 
+// Given a sorted array (ar) and a number (V), 
 // can you print the index location of  in the array?
 
 #include <cmath>
