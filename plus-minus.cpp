@@ -1,3 +1,12 @@
+// HackerRank > Algorithms > Plus Minus
+// Source: https://www.hackerrank.com/challenges/plus-minus
+
+// Summary: 
+// You must print the following  lines:
+// 1. A decimal representing of the fraction of positive numbers in the array compared to its size.
+// 2. A decimal representing of the fraction of negative numbers in the array compared to its size.
+// 3. A decimal representing of the fraction of zeroes in the array compared to its size.
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
